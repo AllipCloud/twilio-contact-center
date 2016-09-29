@@ -1,7 +1,7 @@
-# Twilio Contact Center Demo
+# SaBRO Contact Center Demo
 Essence of a modern contact center is to serve customers on multiple channels (voice, IP messaging, video, SMS, email, social media, etc.), allow them to move seamlessly across channels and most importantly maintain context of the conversations.
 
-The Twilio Contact Center demo is reference architecture for building a modern contact center. The focus of the demo is to show how to build a Twilio platform based contact center and the various backend and frontend components needed.
+The SaBRO Contact Center demo is reference architecture for building a modern contact center. The focus of the demo is to show how to build a Twilio platform based contact center and the various backend and frontend components needed.
 
 **Note:** We have done the basic work from an UX perspective and lot of opportunities remains to improve on it. Application security implementation is minimal as well in the demo.
 

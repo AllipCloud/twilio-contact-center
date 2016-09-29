@@ -1,5 +1,5 @@
 {
-  "name": "Twilio Contact Center",
+  "name": "SaBRO Contact Center",
   "description": "A web-based contact center utilizing Twilio Client, IP Messaging and TaskRouter",
   "repository": "",
   "logo": "http://node-js-sample.herokuapp.com/node.svg",
