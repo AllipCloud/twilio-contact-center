@@ -1089,8 +1089,8 @@ body {
   font-family: "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 13px;
   line-height: 1.846;
-  color: #666666;
-  background-color: #ffffff;
+  color: #26CBFE;
+  background-color: #293846;
 }
 input,
 button,
@@ -1191,7 +1191,7 @@ h6,
   font-family: inherit;
   font-weight: 400;
   line-height: 1.1;
-  color: #444444;
+  color: #26CBFE;
 }
 h1 small,
 h2 small,
@@ -5464,7 +5464,7 @@ button.list-group-item-danger.active:focus {
 }
 .panel-body {
   padding: 15px;
-  background-color: #333;
+  background-color: #8A8E8E;
 }
 .panel-heading {
   padding: 10px 15px;
@@ -5694,8 +5694,8 @@ button.list-group-item-danger.active:focus {
   border-color: #dddddd;
 }
 .panel-default > .panel-heading {
-  color: #212121;
-  background-color: #f5f5f5;
+  color: #26CBFE;
+  background-color: #393939;
   border-color: #dddddd;
 }
 .panel-default > .panel-heading + .panel-collapse > .panel-body {
