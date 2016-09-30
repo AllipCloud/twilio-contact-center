@@ -217,9 +217,9 @@
 {
 	width: 100%;
 	border-radius: 3px;
-	border:1px solid green;
+	border:1px solid #5ea95e;
 	font-size: 1.6em;
-	background-color: green;
+	background-color: #5ea95e;
 	color:white;
 }
 
@@ -227,9 +227,9 @@
 {
 	width: 100%;
 	border-radius: 3px;
-	border:1px solid red;
+	border:1px solid #f44336;
 	font-size: 1.6em;
-	background-color: red;
+	background-color: #f44336;
 	color:white;
 }
 
