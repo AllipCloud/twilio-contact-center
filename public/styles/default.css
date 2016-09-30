@@ -149,7 +149,7 @@
 	float:right;
 	width:280px;
 	margin-top: 10px;
-	background-color:#f5f5f5;
+	background-color:#393939;
 	border: 1px solid transparent;
 	border-radius: 4px;
 	border-color: rgb(221, 221, 221); 
@@ -161,7 +161,8 @@
 	box-sizing: border-box; 
 	width: 100%;
 	font-size: 1.8em;
-	color: #333333;
+	color: #26befe;
+	background-color: #505153;
 	padding: 5px 15px 5px 15px;
 	border:0;
 }
@@ -195,7 +196,7 @@
 	margin-bottom: 5px;
 	font-weight: bold;
 	cursor: pointer;
-	color: #787878;
+	color: #ddd;
 	border-radius: 3px;
 }
 
@@ -235,7 +236,7 @@
 .phone-controller .status 
 {
 	font-size: 0.8em;
-	color: #808080;
+	color: #26cbfe;
 	padding-top: 8px;
 	display: block
 }
