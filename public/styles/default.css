@@ -4,7 +4,7 @@
 }
 
 .tab-pane{
-  background: #fff;
+  background: #505153;
   padding-top: 10px;
   padding-bottom:10px;
   border: 1px solid #ddd;
@@ -173,7 +173,7 @@
 	width: 100%;
 	font-size: 1.8em;
 	padding: 5px 15px 5px 15px;
-	color:#333333;
+	color:#26befe;
 	overflow: hidden;
 }
 
@@ -312,7 +312,7 @@
 .message .body
 {
   color: #fff;
-  background-color: #00b0ff;
+  background-color: #505153;
   font-size: 16px;
   position: relative;
   display: inline-block;
